@@ -1,0 +1,6 @@
+Warning[205] C:\USERS\DELL\MPLABXPROJECTS\ETAPA1.X\ETAPA1.ASM 11 : Found directive in column 1. (list)
+Warning[205] C:\USERS\DELL\MPLABXPROJECTS\ETAPA1.X\ETAPA1.ASM 16 : Found directive in column 1. (__CONFIG)
+Warning[205] C:\USERS\DELL\MPLABXPROJECTS\ETAPA1.X\ETAPA1.ASM 17 : Found directive in column 1. (__CONFIG)
+Message[302] C:\USERS\DELL\MPLABXPROJECTS\ETAPA1.X\ETAPA1.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\MPLABXPROJECTS\ETAPA1.X\ETAPA1.ASM 42 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DELL\MPLABXPROJECTS\ETAPA1.X\ETAPA1.ASM 46 : Register in operand not in bank 0.  Ensure that bank bits are correct.

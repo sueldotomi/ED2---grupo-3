@@ -1,0 +1,9 @@
+# Archivos de compilación y temporales de MPLAB X
+**/build/
+**/dist/
+**/nbproject/private/
+*.o
+*.d
+*.cof
+*.sym
+*.lst
